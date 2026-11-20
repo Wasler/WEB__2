@@ -1,5 +1,5 @@
 # WEB__2
-### WEB Junior
+# WEB Junior
 
 ```css
   body{
